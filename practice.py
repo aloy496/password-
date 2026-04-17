@@ -7,3 +7,4 @@ for arg in sys.argv[1:]:
     print("Hello my name is", arg)
     print("Hello my name is", arg) 
     print("Hello my name is", arg)
+    print("Hello my name is", arg)
